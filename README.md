@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bülent</h1>
 <h3 align="center">Hi, Welcome To My Github Profile</h3>
 
-- 🔭 I’m currently working on **data structures and algorithms**
+- 🔭 I’m currently working on **Kotlin, Android**
 
 - 🌱 I’m currently learning **Flutter, dart**
 
