@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Kotlin, Android**
 
-- 🌱 I’m currently learning **Flutter, dart**
+- 🌱 I’m currently learning **Clean Architecture,Solid,Design Patterns,Testing**
 
 - 👯 **I love to do research, I enjoy researching new things outside of my field of knowledge and creating new projects.**
 
